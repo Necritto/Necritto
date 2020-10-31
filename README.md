@@ -1,6 +1,6 @@
 # Hello, folks! <img src="./wave.gif" width="30px">
 
-My name is Alexander Voronkin and I'm a frontend developer.
+My name is Alexander and I'm a frontend developer.
 
 ## 🔧 Technologies & Tools
 
