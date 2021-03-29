@@ -11,6 +11,7 @@ My name is Alexander and I'm a frontend developer.
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MobX-informational?style=flat&logo=mobx&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
